@@ -58,8 +58,8 @@ pkg install git nodejs curl proot -y
 ### 2️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git https://github.com/Shri7ul/PocketAI-Builder
+cd PocketAI-Builder
 ```
 
 ---
@@ -167,7 +167,7 @@ BossAI-Lab/
 
 ## 💼 Author
 
-**Shriful Islam (InHuman)**
+**Shriful Islam (InHuman)**    
 AI | Automation | Creative Engineering
 
 ---
